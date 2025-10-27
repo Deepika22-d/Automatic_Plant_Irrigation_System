@@ -2,9 +2,6 @@
 
 This is a **hardware project** designed to automate plant irrigation using a soil moisture sensor and IC555 timer.  
 
-## 📄 Project Presentation
-- `AIC PPT BATCH 8.pptx` → Project PPT  
-- `Automatic_Plant_Irrigation.pdf` → PDF Version (Easy View)  
 
 ## ⚙️ Objective
 The main goal is to ensure plants receive the right amount of water by monitoring soil moisture and automatically controlling irrigation.  
