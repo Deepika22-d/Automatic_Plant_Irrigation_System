@@ -11,9 +11,13 @@ An efficient and cost-effective irrigation system designed to automatically wate
 This smart solution helps to:
 
 ✔ Prevent overwatering
+
 ✔ Prevent underwatering
+
 ✔ Conserve water efficiently
+
 ✔ Promote healthy plant growth
+
 ✔ Reduce manual effort
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -23,8 +27,11 @@ This smart solution helps to:
 Traditional watering methods have several limitations:
 
 • Manual watering leads to inconsistency
+
 • Excess watering damages plant roots
+
 • Insufficient watering affects plant growth
+
 • Water wastage is common
 
 👉 A simple automatic moisture-based irrigation system is essential for efficient plant care.
@@ -36,12 +43,17 @@ Traditional watering methods have several limitations:
 This system integrates:
 
 🌱 Soil Moisture Detection
+
 ⏱ IC555 Timer Control Circuit
+
 🔌 Relay-Based Switching Mechanism
+
 💧 Automatic Water Pump Activation
 
 ✔ Pump turns ON only when soil becomes dry
+
 ✔ Pump turns OFF automatically after moisture restoration
+
 ✔ Ensures optimal soil condition at all times
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -49,9 +61,13 @@ This system integrates:
 🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
 
 ✔ Ensure plants receive the correct amount of water
+
 ✔ Automate the irrigation process
+
 ✔ Reduce water wastage
+
 ✔ Improve plant health
+
 ✔ Provide a simple and economical solution
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -59,10 +75,15 @@ This system integrates:
 ⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗪𝗢𝗥𝗞𝗜𝗡𝗚
 
 1️⃣ Soil Moisture Sensor detects soil condition
+
 2️⃣ When soil becomes dry → Electrical signal is generated
+
 3️⃣ IC555 Timer processes the input signal
+
 4️⃣ Relay Module gets activated
+
 5️⃣ Water Pump turns ON automatically
+
 6️⃣ When soil moisture level is restored → Pump turns OFF
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -70,13 +91,21 @@ This system integrates:
 🛠 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦
 
 🔹 Soil Moisture Sensor (5V)
+
 🔹 IC NE555 Timer
+
 🔹 Capacitor – 100µF
+
 🔹 Resistors – 10Ω, 2Ω
+
 🔹 Relay Module – 5V
+
 🔹 DC Motor (3V–48V)
+
 🔹 12V DC Water Pump
+
 🔹 LM317 Voltage Regulator
+
 🔹 AC Adapter (100–240V)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -84,7 +113,11 @@ This system integrates:
 📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
 
 ✔ Soil dryness detected accurately
+
 ✔ Automatic pump activation achieved
+
 ✔ Irrigation stopped after moisture restoration
+
 ✔ Reliable and efficient system performance
+
 ✔ Reduced water consumption compared to manual method
