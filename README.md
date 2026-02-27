@@ -1,1 +1,123 @@
-# 🌱🤖 𝗦𝗠𝗔𝗥𝗧 𝗖𝗥𝗢𝗣 𝗗𝗜𝗦𝗘𝗔𝗦𝗘 𝗗𝗘𝗧𝗘𝗖𝗧𝗜𝗢𝗡 # 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗘𝗗 𝗔𝗖𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠 ## 🚜 𝗔𝗜 + 𝗜𝗢𝗧 𝗕𝗔𝗦𝗘𝗗 𝗦𝗠𝗔𝗥𝗧 𝗔𝗚𝗥𝗜𝗖𝗨𝗟𝗧𝗨𝗥𝗘 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡 --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 🌿 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪 An intelligent agriculture system designed to **detect crop diseases early** and automatically take corrective action using **Artificial Intelligence and IoT**. This solution helps to: ✔ Reduce crop loss ✔ Conserve water ✔ Enable real-time smart monitoring ✔ Improve overall farm productivity --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 🌾 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧 Farmers face major challenges such as: • Manual inspection is time-consuming • Disease symptoms are difficult to identify • Environmental variations affect crop health • Delayed action leads to major yield loss 👉 A **smart automated monitoring system** is essential for continuous observation and quick response. --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 💡 𝗣𝗥𝗢𝗣𝗢𝗦𝗘𝗗 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡 This system integrates: 🧠 **AI-based leaf disease detection** 📡 **IoT-enabled environmental monitoring** 💧 **Automatic irrigation control** 🌿 **Smart pesticide spraying** 📲 **Real-time farmer alerts** ✔ Activates irrigation or spraying only when required ✔ Ensures early detection and timely intervention --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦 ✔ Early disease detection ✔ Automated spraying system ✔ Soil moisture-based smart irrigation ✔ Real-time monitoring and alerts ✔ Reduced resource wastage ✔ Improved crop productivity --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 🛠 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦 🔹 ESP32 – Main IoT controller 📷 USB Webcam – Leaf image capture 🌱 Soil Moisture Sensor 🌡 DHT11 Sensor 🕒 DS3231 RTC 🖥 OLED Display 🔌 Relay Module 💦 Water Pump 🚰 Float Sensors 🔋 Power Supply --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 💻 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗨𝗦𝗘𝗗 • Python • TensorFlow / Keras • OpenCV • Arduino IDE • IoT Alert Platform --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## ⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪 1️⃣ Monitor soil and environment 2️⃣ Capture crop leaf image 3️⃣ Classify disease (Wilt / Blight / Rust) 4️⃣ Activate sprayer if disease detected 5️⃣ Activate pump if soil is dry 6️⃣ Display live status 7️⃣ Send real-time alert to farmer --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦 ✔ High-accuracy disease detection ✔ Automated irrigation and spraying ✔ Reduced manual monitoring ✔ Efficient resource utilization ✔ Minimized crop loss --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 🌍 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 • Agricultural fields • Greenhouse environments • Precision farming • Large-scale farm automation • Smart irrigation systems --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 🚀 𝗙𝗨𝗧𝗨𝗥𝗘 𝗦𝗖𝗢𝗣𝗘 • Multi-crop disease detection • Drone-based monitoring • Solar-powered deployment • Cloud-based farm dashboard • Dedicated farmer mobile application --- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ## 🎓 𝗔𝗖𝗔𝗗𝗘𝗠𝗜𝗖 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡 📢 Our project paper was successfully **published in an IEEE Conference**.
+🌿💧 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗖 𝗣𝗟𝗔𝗡𝗧 𝗜𝗥𝗥𝗜𝗚𝗔𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠
+⏱ 𝗨𝗦𝗜𝗡𝗚 𝗜𝗖𝟱𝟱𝟱
+🌱 𝗦𝗠𝗔𝗥𝗧 𝗦𝗢𝗜𝗟 𝗠𝗢𝗜𝗦𝗧𝗨𝗥𝗘 𝗕𝗔𝗦𝗘𝗗 𝗪𝗔𝗧𝗘𝗥𝗜𝗡𝗚 𝗦𝗬𝗦𝗧𝗘𝗠
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌿 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
+
+An efficient and cost-effective irrigation system designed to automatically water plants based on real-time soil moisture conditions using the IC NE555 Timer.
+
+This smart solution helps to:
+
+✔ Prevent overwatering
+
+✔ Prevent underwatering
+
+✔ Conserve water efficiently
+
+✔ Promote healthy plant growth
+
+✔ Reduce manual effort
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌾 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧
+
+Traditional watering methods have several limitations:
+
+• Manual watering leads to inconsistency
+
+• Excess watering damages plant roots
+
+• Insufficient watering affects plant growth
+
+• Water wastage is common
+
+👉 A simple automatic moisture-based irrigation system is essential for efficient plant care.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 𝗣𝗥𝗢𝗣𝗢𝗦𝗘𝗗 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
+
+This system integrates:
+
+🌱 Soil Moisture Detection
+
+⏱ IC555 Timer Control Circuit
+
+🔌 Relay-Based Switching Mechanism
+
+💧 Automatic Water Pump Activation
+
+✔ Pump turns ON only when soil becomes dry
+
+✔ Pump turns OFF automatically after moisture restoration
+
+✔ Ensures optimal soil condition at all times
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
+
+✔ Ensure plants receive the correct amount of water
+
+✔ Automate the irrigation process
+
+✔ Reduce water wastage
+
+✔ Improve plant health
+
+✔ Provide a simple and economical solution
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗪𝗢𝗥𝗞𝗜𝗡𝗚
+
+1️⃣ Soil Moisture Sensor detects soil condition
+
+2️⃣ When soil becomes dry → Electrical signal is generated
+
+3️⃣ IC555 Timer processes the input signal
+
+4️⃣ Relay Module gets activated
+
+5️⃣ Water Pump turns ON automatically
+
+6️⃣ When soil moisture level is restored → Pump turns OFF
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦
+
+🔹 Soil Moisture Sensor (5V)
+
+🔹 IC NE555 Timer
+
+🔹 Capacitor – 100µF
+
+🔹 Resistors – 10Ω, 2Ω
+
+🔹 Relay Module – 5V
+
+🔹 DC Motor (3V–48V)
+
+🔹 12V DC Water Pump
+
+🔹 LM317 Voltage Regulator
+
+🔹 AC Adapter (100–240V)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
+
+✔ Soil dryness detected accurately
+
+✔ Automatic pump activation achieved
+
+✔ Irrigation stopped after moisture restoration
+
+✔ Reliable and efficient system performance
+
+✔ Reduced water consumption compared to manual method
