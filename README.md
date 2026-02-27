@@ -1,87 +1,155 @@
 🌿💧 AUTOMATIC PLANT IRRIGATION SYSTEM USING IC555
+<br>
 🌱 SMART SOIL MOISTURE BASED WATERING SYSTEM
+
+<br><br>
+
+<br>
 🚀 PROJECT OVERVIEW
+<br>
 
-An efficient and low-cost automatic irrigation system that waters plants based on real-time soil moisture conditions using the IC NE555 Timer.
+An efficient and cost-effective automatic irrigation system that waters plants based on real-time soil moisture conditions using the IC NE555 Timer.
 
-This system:
+<br>
 
-✔ Prevents overwatering
-✔ Prevents underwatering
-✔ Conserves water
-✔ Promotes healthy plant growth
-✔ Reduces manual effort
+This system helps to:
 
+<br>
+
+✔ Prevent overwatering
+
+<br>
+
+✔ Prevent underwatering
+
+<br>
+
+✔ Conserve water
+
+<br>
+
+✔ Promote healthy plant growth
+
+<br>
+
+✔ Reduce manual effort
+
+<br><br>
+
+<br>
 🎯 OBJECTIVE
+<br>
 
 The main objective of this project is to:
 
+<br>
+
 • Ensure plants receive the correct amount of water
+
+<br>
 
 • Automate the irrigation process
 
+<br>
+
 • Reduce water wastage
+
+<br>
 
 • Improve plant health
 
-• Provide a simple and cost-effective solution
+<br>
 
+• Provide a simple and low-cost solution
+
+<br><br>
+
+<br>
 ⚙️ WORKING PRINCIPLE
+<br>
 
 1️⃣ The Soil Moisture Sensor detects soil condition
 
-2️⃣ When soil becomes dry → Signal is sent
+<br>
+
+2️⃣ When soil becomes dry → A signal is generated
+
+<br>
 
 3️⃣ The IC NE555 Timer processes the signal
 
-4️⃣ Relay gets activated
+<br>
 
-5️⃣ Water pump turns ON
+4️⃣ The Relay Module gets activated
 
-6️⃣ When moisture level is restored → Pump turns OFF automatically
+<br>
 
-This creates a fully automated irrigation cycle.
+5️⃣ The Water Pump turns ON
 
+<br>
+
+6️⃣ When required moisture level is reached → Pump turns OFF automatically
+
+<br><br>
+
+<br>
 🛠️ APPARATUS REQUIRED
+<br>
 
 • Soil Moisture Sensor (5V)
 
+<br>
+
 • IC NE555 Timer
+
+<br>
 
 • Capacitor – 100µF
 
+<br>
+
 • Resistors – 10Ω, 2Ω
+
+<br>
 
 • Relay Module – 5V
 
+<br>
+
 • DC Motor (3V–48V)
+
+<br>
 
 • 12V DC Water Pump
 
+<br>
+
 • LM317 Voltage Regulator
+
+<br>
 
 • AC Adapter (100–240V)
 
-🧠 WHY IC NE555?
+<br><br>
 
-✔ Low Cost
-
-✔ Simple Circuit Design
-
-✔ Reliable Operation
-
-✔ Easily Available
-
-✔ Ideal for Small-Scale Automation
-
-The IC NE555 acts as the control unit for irrigation timing and pump activation.
-
+<br>
 📊 RESULTS
+<br>
 
-✔ Successfully detected soil dryness
+✔ Soil dryness was detected accurately
 
-✔ Automatically activated water pump
+<br>
 
-✔ Stopped irrigation after reaching required moisture
+✔ Water pump activated automatically
 
-✔ Operated reliably and efficiently
+<br>
+
+✔ Irrigation stopped after moisture restoration
+
+<br>
+
+✔ System operated reliably
+
+<br><br>
+
+<br>
