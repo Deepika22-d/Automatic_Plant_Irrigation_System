@@ -1,87 +1,90 @@
-# 🌿💧 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗖 𝗣𝗟𝗔𝗡𝗧 𝗜𝗥𝗥𝗜𝗚𝗔𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠  
-# 𝗨𝗦𝗜𝗡𝗚 𝗜𝗖555  
-## 🌱 𝗦𝗠𝗔𝗥𝗧 𝗦𝗢𝗜𝗟 𝗠𝗢𝗜𝗦𝗧𝗨𝗥𝗘 𝗕𝗔𝗦𝗘𝗗 𝗪𝗔𝗧𝗘𝗥𝗜𝗡𝗚 𝗦𝗬𝗦𝗧𝗘𝗠  
-
----
+🌡🌀 𝗧𝗘𝗠𝗣𝗘𝗥𝗔𝗧𝗨𝗥𝗘 𝗧𝗨𝗡𝗘𝗗 𝗙𝗔𝗡𝗦
+⏱ 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗖 𝗙𝗔𝗡 𝗦𝗣𝗘𝗘𝗗 𝗖𝗢𝗡𝗧𝗥𝗢𝗟 𝗦𝗬𝗦𝗧𝗘𝗠
+🏠 𝗧𝗘𝗠𝗣𝗘𝗥𝗔𝗧𝗨𝗥𝗘 𝗕𝗔𝗦𝗘𝗗 𝗦𝗠𝗔𝗥𝗧 𝗖𝗢𝗢𝗟𝗜𝗡𝗚 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🚀 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
+🚀 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
 
-An efficient and cost-effective irrigation system that waters plants automatically based on real-time soil moisture conditions using the **IC NE555 Timer**.
+An efficient and intelligent cooling system that automatically adjusts fan speed based on real-time temperature conditions using a microcontroller and temperature sensor.
 
-This system helps to:
+This solution helps to:
 
-✔ Prevent overwatering  
-✔ Prevent underwatering  
-✔ Conserve water  
-✔ Promote healthy plant growth  
-✔ Reduce manual effort  
-
----
+✔ Maintain optimal room temperature
+✔ Reduce electricity consumption
+✔ Improve user comfort
+✔ Eliminate manual speed adjustment
+✔ Enhance energy efficiency
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ✨ 𝗞𝗘𝗬 𝗕𝗘𝗡𝗘𝗙𝗜𝗧𝗦
+🌡 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧
 
-🔹 Smart moisture-based watering  
-🔹 Fully automatic operation  
-🔹 Low-cost and simple design  
-🔹 Reliable performance  
-🔹 Suitable for home gardens & small farms  
+Traditional fan systems face several challenges:
 
----
+• Manual speed control is inconvenient
+• No automatic response to temperature change
+• Continuous running causes energy wastage
+• Inconsistent cooling during environmental fluctuations
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘
-
-The main objective of this project is to:
-
-✔ Ensure plants receive the correct amount of water  
-✔ Automate the irrigation process  
-✔ Reduce water wastage  
-✔ Improve plant health  
-✔ Provide a simple and economical solution  
-
----
+👉 A temperature-based automatic fan control system is essential for smart and efficient cooling.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ⚙️ 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘
+💡 𝗣𝗥𝗢𝗣𝗢𝗦𝗘𝗗 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
 
-1️⃣ Soil Moisture Sensor detects soil condition  
-2️⃣ When soil becomes dry → Signal is generated  
-3️⃣ IC NE555 Timer processes the signal  
-4️⃣ Relay Module gets activated  
-5️⃣ Water Pump turns ON  
-6️⃣ When required moisture level is reached → Pump turns OFF automatically  
+This system integrates:
 
----
+🌡 Temperature Sensor (DHT11 / LM35)
+🧠 Microcontroller (Arduino / ESP32)
+⚡ PWM-Based Speed Control
+🔌 MOSFET Motor Driver
+🖥 LCD Display
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 🛠 𝗔𝗣𝗣𝗔𝗥𝗔𝗧𝗨𝗦 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗗
-
-🔹 Soil Moisture Sensor (5V)  
-🔹 IC NE555 Timer  
-🔹 Capacitor – 100µF  
-🔹 Resistors – 10Ω, 2Ω  
-🔹 Relay Module – 5V  
-🔹 DC Motor (3V–48V)  
-🔹 12V DC Water Pump  
-🔹 LM317 Voltage Regulator  
-🔹 AC Adapter (100–240V)  
-
----
+✔ Detects ambient temperature continuously
+✔ Adjusts fan speed automatically
+✔ Runs fan only when required
+✔ Displays temperature and fan status
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
+🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
 
-✔ Soil dryness detected accurately  
-✔ Water pump activated automatically  
-✔ Irrigation stopped after moisture restoration  
-✔ Reliable and efficient system performance  
+✔ Automate fan speed control
+✔ Maintain comfortable room temperature
+✔ Reduce power consumption
+✔ Improve energy efficiency
+✔ Develop a cost-effective smart solution
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘
+
+1️⃣ Temperature sensor measures ambient temperature
+2️⃣ Signal sent to microcontroller
+3️⃣ Temperature compared with preset thresholds
+4️⃣ PWM signal generated accordingly
+5️⃣ Fan speed increases or decreases automatically
+6️⃣ Real-time status displayed on LCD
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 𝗔𝗣𝗣𝗔𝗥𝗔𝗧𝗨𝗦 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗗
+
+🔹 Arduino / ESP32
+🔹 DHT11 / LM35 Temperature Sensor
+🔹 MOSFET Motor Driver
+🔹 DC Fan
+🔹 LCD Display
+🔹 Power Supply Unit
+🔹 Connecting Wires & Breadboard
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
+
+✔ Accurate temperature detection
+✔ Automatic fan speed adjustment
+✔ Reduced electricity usage
+✔ Improved cooling performance
+✔ Reliable and efficient system operation
