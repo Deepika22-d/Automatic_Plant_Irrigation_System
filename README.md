@@ -8,33 +8,25 @@
 
 An efficient and cost-effective irrigation system designed to automatically water plants based on real-time soil moisture conditions using the IC NE555 Timer.
 
-This smart solution helps to:
+This solution helps to:
 
 ✔ Prevent overwatering
-
 ✔ Prevent underwatering
-
-✔ Conserve water efficiently
-
+✔ Conserve water
 ✔ Promote healthy plant growth
-
-✔ Reduce manual effort
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🌾 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧
 
-Traditional watering methods have several limitations:
+Farmers and home gardeners face several challenges:
 
 • Manual watering leads to inconsistency
-
 • Excess watering damages plant roots
-
 • Insufficient watering affects plant growth
-
 • Water wastage is common
 
-👉 A simple automatic moisture-based irrigation system is essential for efficient plant care.
+👉 A smart automatic moisture-based irrigation system is essential for efficient plant care.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -43,81 +35,54 @@ Traditional watering methods have several limitations:
 This system integrates:
 
 🌱 Soil Moisture Detection
-
 ⏱ IC555 Timer Control Circuit
-
 🔌 Relay-Based Switching Mechanism
-
 💧 Automatic Water Pump Activation
 
-✔ Pump turns ON only when soil becomes dry
-
-✔ Pump turns OFF automatically after moisture restoration
-
-✔ Ensures optimal soil condition at all times
+✔ Activates pump only when soil becomes dry
+✔ Stops pump automatically after moisture restoration
+✔ Ensures optimal watering condition
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
 
 ✔ Ensure plants receive the correct amount of water
-
 ✔ Automate the irrigation process
-
 ✔ Reduce water wastage
-
 ✔ Improve plant health
-
 ✔ Provide a simple and economical solution
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗪𝗢𝗥𝗞𝗜𝗡𝗚
-
-1️⃣ Soil Moisture Sensor detects soil condition
-
-2️⃣ When soil becomes dry → Electrical signal is generated
-
-3️⃣ IC555 Timer processes the input signal
-
-4️⃣ Relay Module gets activated
-
-5️⃣ Water Pump turns ON automatically
-
-6️⃣ When soil moisture level is restored → Pump turns OFF
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦
 
 🔹 Soil Moisture Sensor (5V)
-
 🔹 IC NE555 Timer
-
 🔹 Capacitor – 100µF
-
 🔹 Resistors – 10Ω, 2Ω
-
 🔹 Relay Module – 5V
-
-🔹 DC Motor (3V–48V)
-
 🔹 12V DC Water Pump
-
 🔹 LM317 Voltage Regulator
+🔹 Power Supply
 
-🔹 AC Adapter (100–240V)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪
+
+1️⃣ Detect soil moisture level
+2️⃣ Generate signal when soil becomes dry
+3️⃣ Process signal using IC555 Timer
+4️⃣ Activate relay module
+5️⃣ Turn ON water pump
+6️⃣ Stop pump after moisture restoration
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
 
-✔ Soil dryness detected accurately
-
-✔ Automatic pump activation achieved
-
-✔ Irrigation stopped after moisture restoration
-
-✔ Reliable and efficient system performance
-
-✔ Reduced water consumption compared to manual method
+✔ Accurate soil dryness detection
+✔ Automatic pump activation
+✔ Efficient water usage
+✔ Improved plant growth
+✔ Reduced manual intervention
